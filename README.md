@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artemchandragupta&label=Profile%20views&color=0e75b6&style=flat" alt="artemchandragupta" /> </p>
 
-- 🔭 I’m currently working on [my  NixOS config](https://github.com/ArtemChandragupta/NixFlake)
+- 🔭 I’m currently working on [my NixOS config](https://github.com/ArtemChandragupta/NixFlake)
 
 - 🌱 I’m currently learning **Haskell and Nix**
 
-- 🤝 I’m looking for help with [my  NixOS config](https://github.com/ArtemChandragupta/NixFlake)
+- 🤝 I’m looking for help with [my NixOS config](https://github.com/ArtemChandragupta/NixFlake)
 
-- 📫 How to reach me **artem@gmail.com**
+- 📫 How to reach me **artem020503@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
